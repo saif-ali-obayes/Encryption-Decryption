@@ -21,7 +21,7 @@ A lightweight Python application designed to automate text encryption and decryp
 Copy and run the following commands in your terminal to clone and run the project:
 
 ```bash
-git clone https://github.com/saifaliobayes/Encryption-Decryption.git
+git clone https://github.com/saif-ali-obayes/Encryption-Decryption.git
 cd Encryption-Decryption
 python Encryption.py
 ```
